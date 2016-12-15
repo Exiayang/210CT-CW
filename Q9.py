@@ -17,6 +17,7 @@ def binary_search(sequence, lvalue, hvalue):    #n
             else:                               #n
                 return True                     #1
 
+            return Trus or False
 #bigO=8n+5 = O(n)
         
 sequence = [1, 3, 4, 6, 8, 9, 7]
